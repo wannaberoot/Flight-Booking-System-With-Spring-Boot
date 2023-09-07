@@ -1,7 +1,7 @@
 # Flight-Booking-System-With-Spring-Boot
 Flight booking system with Spring Boot.
 
-## Technologies used in this project.
+## Technologies used in this project:
 1. iyzipay
 2. Jackson JSON
 3. JUnit - Mockito
